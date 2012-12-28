@@ -1,0 +1,59 @@
+Deploying Rails: Automate, Deploy, Scale, Maintain, and Sleep at Night
+by Tom Copeland and Anthony Burns
+Today’s modern Rails applications have lots of moving parts. Make sure your next production deployment goes smoothly with this hands-on book, which guides you through the entire production process. You’ll set up scripts to install and configure all the software your servers need, including your application code. Once you’re in production, you’ll learn how to set up systems to monitor your application’s health, gather metrics so you can stop problems before they start, and fix things when they go wrong.
+US$ 30.00
+products/deploying-rails.jpg
+
+The Rails View: Create a Beautiful and Maintainable User Experience
+by John Athayde and Bruce Williams
+Working in the Rails View layer requires a breadth of knowledge and attention to detail unlike anywhere else in Rails. One wrong move can result in brittle, complex views that stop future development in its tracks. Break free from tangles of logic and markup in your views and implement your user interface cleanly and maintainably.
+US$ 35.00
+products/the-rails-view.jpg
+
+Agile Web Development with Rails (4th edition)
+by Sam Ruby
+Rails just keeps on changing. Rails 3 and Ruby 1.9 bring hundreds of improvements, including new APIs and substantial performance enhancements. The fourth edition of this award-winning classic has been reorganized and refocused so it’s more useful than ever before for developers new to Ruby and Rails.
+US$ 43.95
+products/agile-web-development.jpg
+
+Crafting Rails Applications: Expert Practices for Everyday Rails Development
+by José Valim
+Rails 3 is a huge step forward. You can now easily extend the framework, change its behavior, and replace whole components to bend it to your will, all without messy hacks. This pioneering book is the first resource that deep dives into the new Rails 3 APIs and shows you how to use them to write better web applications and make your day-to-day work with Rails more productive.
+US$ 33.00
+products/crafting-rails-applications.jpg
+
+The RSpec Book: Behaviour-Driven Development with RSpec, Cucumber, and Friends
+by David Chelimsky, Dave Astels, Zach Dennis, Aslak Hellesøy, Bryan Helmkamp, Dan North
+Behaviour-Driven Development (BDD) gives you the best of Test Driven Development, Domain Driven Design, and Acceptance Test Driven Planning techniques, so you can create better software with self-documenting, executable tests that bring users and developers together with a common language. Get the most out of BDD in Ruby with The RSpec Book, written by the lead developer of RSpec, David Chelimsky.
+US$ 38.95
+products/the-rspec-book.jpg
+
+Programming Ruby 1.9 (3rd edition): The Pragmatic Programmers' Guide
+by Dave Thomas, with Chad Fowler and Andy Hunt
+Ruby is the fastest growing and most exciting dynamic language out there. If you need to get working programs delivered fast, you should add Ruby to your toolbox. This book is the only complete reference for Ruby 1.9, the very latest version of Ruby. (If you’re still using Ruby 1.8, you’ll want to check out the original PickAxe.) 2010 marks the 10th anniversary since the first edition of the PickAxe. We’re proud that throughout its history, we’ve continued to cover the latest version of Ruby.
+US$ 49.95
+products/programming-ruby.jpg
+
+CoffeeScript: Accelerated JavaScript Development
+by Trevor Burnham
+CoffeeScript is JavaScript done right. It provides all of JavaScript’s functionality wrapped in a cleaner, more succinct syntax. In the first book on this exciting new language, CoffeeScript guru Trevor Burnham shows you how to hold onto all the power and flexibility of JavaScript while writing clearer, cleaner, and safer code.
+US$ 29.00
+products/coffeescript.jpg
+
+Continuous Testing: with Ruby, Rails, and JavaScript
+by Ben Rady and Rod Coffin
+Feedback. We’re always telling you that you need feedback, with a short feedback gap — the time it takes to get feedback on your decisions, your code, your designs. Well, what if you narrowed the feedback gap to near zero while coding? You’d have continuous testing, a powerful idea that lets you fix bugs while they’re still small and fresh.
+US$ 33.00
+products/continuous-testing.jpg
+
+Exceptional Ruby: Master the Art of Handling Failure in Ruby
+by Avdi Grimm
+Writing code that works is hard. Writing code that handles unexpected errors and still works is really hard. Most of us learn by trial and error. This short book removes the uncertainty. With over 100 pages of content and dozens of working examples, you’ll learn everything from the mechanics of how exceptions work to how to design a robust failure management architecture for your app or library. Whether you are a Ruby novice or a seasoned veteran, Exceptional Ruby will help you write cleaner, more resilient Ruby code.
+US$ 17.50
+products/exceptional-ruby.jpg
+
+The Cucumber Book: Behaviour-Driven Development for Testers and Developers
+by Matt Wynne and Aslak Hellesøy
+Your customers want rock-solid, bug-free software that does exactly what they expect it to do. Yet they can’t always articulate their ideas clearly enough for you to turn them into code. The Cucumber Book dives straight into the core of the problem: communication between people. Cucumber saves the day; it’s a testing, communication, and requirements tool – all rolled into one.
+US$ 30.00
+products/the-cucumber-book.jpg
